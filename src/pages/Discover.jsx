@@ -1,8 +1,8 @@
 import { useDispatch, useSelector } from 'react-redux';
+import { useGetTopChartsQuery } from '../redux/services/shazamCore';
 
 import { Error, Loader, SongCard  } from '../components';
 import { genres } from '../assets/constants';
-import { useGetTopChartsQuery } from '../redux/services/shazamCore';
 
 const Discover = () => {
 
@@ -21,6 +21,7 @@ const Discover = () => {
     <div className="flex flex-col">
       <div className="w-full flex justify-between items-center sm:flex-row flex-col mt-4 mb-10">
         <h2 className="font-bold text-3xl text-white">Discover {genreTitle}</h2>
+        {/* #Add text-left */}
         <select
         onChange={() => {}}
         value=""

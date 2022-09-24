@@ -28,7 +28,7 @@ const SongCard = ({ song, isPlaying, activeSong, i, data }) => {
         handlePlay={handlePlayClick}
         />
       </div>
-      <img alt="song_image" src={song.images?.coverart} />
+      <img alt="song_img" src={song.images?.coverart} />
     </div>
     <div className="mt-4 flex flex-col">
       <p className="font-semibold text-lg text-white truncate">
