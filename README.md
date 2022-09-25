@@ -4,9 +4,13 @@
 
 <span></span>
 
-![RapidAPI](https://img.shields.io/badge/RapidAPI-3a86ff?style=for-the-badge&logo=rapidapi) <span style='margin-left: 15px'></span> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <span style='margin-left: 15px'></span> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <span style='margin-left: 15px'></span> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-3a86ff?-style=for-the-badge&logo=rapidapi) <span style='margin-left: 15px'></span> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?-style=for-the-badge&logo=redux&logoColor=white) <span style='margin-left: 15px'></span> ![React](https://img.shields.io/badge/react-%2320232a.svg?-style=for-the-badge&logo=react&logoColor=%2361DAFB) <span style='margin-left: 15px'></span> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?-style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- Check out the Doc and Design project requirements [here](https://docs.google.com/document/d/1E1G_yS7CnJZKuXnKArcgyOEnMbJhpmKaIagKYO4fxHQ/edit#) -->
+
+#
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e0acd04-21eb-48f6-abe8-e3f561631d08/deploy-status)](https://app.netlify.com/sites/bendevweb-spotify-clone/deploys)
 
 ---
 
